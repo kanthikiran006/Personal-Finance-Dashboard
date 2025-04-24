@@ -1,4 +1,3 @@
-# Personal-Finance-Dashboard
 Personal Finance Dashboard - Power BI  
 ===================================== 
 
